@@ -1,0 +1,18 @@
+{
+  "name": "thuonglethi346-hub/seedance2ai_app",
+  "description": "Seedance2AI official website backlink helper package.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://www.seedance2ai.app",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Backlink\\\\": "src/"
+    }
+  },
+  "keywords": [
+    "seedance2ai_app"
+  ]
+}
