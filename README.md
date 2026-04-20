@@ -1,23 +1,10 @@
 # seedance2ai_app
 
-Seedance2AI official website backlink helper package.
+`seedance2ai_app` is a minimal metadata package for the Seedance2AI AI video generator website.
 
-## Official Website
+- Homepage: https://www.seedance2ai.app
+- Rust docs: https://docs.rs/seedance2ai_app
+- Go docs: https://pkg.go.dev/github.com/thuonglethi346-hub/seedance2ai_app
+- Packagist: https://packagist.org/packages/thuonglethi346-hub/seedance2ai_app
 
-- https://www.seedance2ai.app
-
-## Go Module
-
-```bash
-go get github.com/thuonglethi346-hub/seedance2ai_app
-```
-
-## Composer
-
-```bash
-composer require thuonglethi346-hub/seedance2ai_app
-```
-
-## Links
-
-- Website: https://www.seedance2ai.app
+The repository exists mainly so public package ecosystems can reference the Seedance2AI site.

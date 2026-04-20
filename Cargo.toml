@@ -1,0 +1,17 @@
+[package]
+name = "seedance2ai_app"
+version = "0.1.0"
+edition = "2024"
+description = "Minimal Rust package for Seedance2AI AI video generator site metadata and docs.rs indexing."
+license = "MIT"
+homepage = "https://www.seedance2ai.app"
+documentation = "https://docs.rs/seedance2ai_app"
+repository = "https://github.com/thuonglethi346-hub/seedance2ai_app"
+readme = "README.md"
+keywords = ["seedance2ai", "video", "ai", "generator"]
+categories = ["multimedia"]
+
+[dependencies]
+
+[package.metadata.docs.rs]
+all-features = true

@@ -1,18 +1,26 @@
 {
   "name": "thuonglethi346-hub/seedance2ai_app",
-  "description": "Seedance2AI official website backlink helper package.",
+  "description": "Minimal Composer package for Seedance2AI site metadata and Packagist indexing.",
   "type": "library",
   "license": "MIT",
   "homepage": "https://www.seedance2ai.app",
-  "require": {
-    "php": ">=7.4"
-  },
+  "keywords": [
+    "seedance2ai",
+    "ai",
+    "video",
+    "generator"
+  ],
+  "authors": [
+    {
+      "name": "thuonglethi346-hub"
+    }
+  ],
   "autoload": {
     "psr-4": {
-      "Backlink\\\\": "src/"
+      "Seedance2AiApp\\": "php/src/"
     }
   },
-  "keywords": [
-    "seedance2ai_app"
-  ]
+  "require": {
+    "php": ">=8.0"
+  }
 }
